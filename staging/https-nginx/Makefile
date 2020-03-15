@@ -15,7 +15,7 @@
 all:
 
 TAG = 1.0
-PREFIX = bprashanth/nginxhttps
+PREFIX = raviteja101/nginxhttps
 KEY = /tmp/nginx.key
 CERT = /tmp/nginx.crt
 SECRET = /tmp/secret.json
